@@ -8,6 +8,10 @@
 
 This is simple task that i created to explore about free stripe-payment service.Stripe offers a free payment processing service that allows businesses to accept online payments easily, with transparent fees only on successful transactions, ensuring no upfront costs for startups and entrepreneurs.
 
+
+## `Tech Stack`
+Stripe.js, Node, Express.js, mongoose, html, css.
+
  ### `1`
   ![screenshot(1)](https://github.com/purvilnakrani/screenshots/blob/master/Stripe-payment/home.png)    
 ### `2`
